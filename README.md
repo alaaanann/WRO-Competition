@@ -32,3 +32,21 @@ Our code focuses on the development of a MATLAB-based system that streamlines sh
    - A code calculates collision times and distances based on ship-specific data.
    - Ships can predict potential collision scenarios and make navigation decisions accordingly.
 
+
+
+The number of ships allowed to enter the gates simultaneously is determined based on the size of each ship. For small ships meeting specific size criteria, typically around 15 meters wide, 145 meters long, and 5.5 meters deep, simultaneous entry into the gates is permitted. However, for larger ships that do not meet these size criteria, they are required to enter the gates individually, following their designated booking slots. This approach ensures effective management of ship traffic within the Panama Canal, prioritizing both safety and operational efficiency. 
+
+<img width="264" alt="image" src="https://github.com/alaaanann/WRO-Competition/assets/72482375/cb15602e-bf49-49b2-8400-3bc6d9b28f84">
+
+In the case of a single large ship, it will be granted autonomous entry into the canal without the presence of other vessels.
+
+<img width="272" alt="image" src="https://github.com/alaaanann/WRO-Competition/assets/72482375/03782e3c-51fa-4d35-a493-d2013ebc0dd0">
+
+When there are two small ships, they will be allowed to enter the canal simultaneously, ensuring efficient passage and minimizing delays.
+
+
+<img width="263" alt="image" src="https://github.com/alaaanann/WRO-Competition/assets/72482375/602fd267-29e4-42f4-8eda-674642b3a7e8">
+
+
+<img width="269" alt="image" src="https://github.com/alaaanann/WRO-Competition/assets/72482375/2be95f01-77c0-4ea1-9f46-d07767b8d01c">
+
