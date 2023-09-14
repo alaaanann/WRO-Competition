@@ -48,8 +48,8 @@ In the case of a single large ship, it will be granted autonomous entry into the
 When there are two small ships, they will be allowed to enter the canal simultaneously, ensuring efficient passage and minimizing delays.
 
 
-<img width="263" height="200" alt="image" src="https://github.com/alaaanann/WRO-Competition/assets/72482375/602fd267-29e4-42f4-8eda-674642b3a7e8">
+<img width="263" height="600" alt="image" src="https://github.com/alaaanann/WRO-Competition/assets/72482375/602fd267-29e4-42f4-8eda-674642b3a7e8">
 
 
-<img width="263" height="200" alt="image" src="https://github.com/alaaanann/WRO-Competition/assets/72482375/2be95f01-77c0-4ea1-9f46-d07767b8d01c">
+<img width="263" height="600" alt="image" src="https://github.com/alaaanann/WRO-Competition/assets/72482375/2be95f01-77c0-4ea1-9f46-d07767b8d01c">
 
